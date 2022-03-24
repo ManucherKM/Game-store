@@ -134,7 +134,7 @@ input {
 .header__present::after {
     content: "";
     position: absolute;
-    background: url("../img/game-character.svg");
+    background: url("../img/game-character.png");
     width: 648px;
     height: 424px;
     bottom: 0;
